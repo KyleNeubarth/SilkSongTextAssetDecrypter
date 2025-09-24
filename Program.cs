@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 using System.Text;
+using System.Web;
 
 namespace DecryptSkong;
 
@@ -28,6 +29,7 @@ class Program
             string content = File.ReadAllText(file);
             
             string decryptedContent = Decrypt(content);
+            decryptedContent = HttpUtility.HtmlDecode(decryptedContent);
             Console.WriteLine($"Decrypted '{Path.GetFileName(file)}'");
 
             if (!Directory.Exists(outputDirectory))
