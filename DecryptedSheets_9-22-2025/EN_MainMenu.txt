@@ -12,7 +12,7 @@
 <entry name="OPTIONS_KEYBOARD">Keyboard</entry>
 <entry name="CTRL_REMAP">Remap Controls</entry>
 <entry name="SCREEN_GAMEPAD_REMAP">Remap Controller</entry>
-<entry name="PS4_SAVE_IMPORT_RESULT_FAILED">{0} out of {1} PS4™ save files were successfully imported.&lt;br&gt;Clear save slots to import PS4™ save files.</entry>
+<entry name="PS4_SAVE_IMPORT_RESULT_FAILED">{0} out of {1} PS4™ save files were successfully imported.<br>Clear save slots to import PS4™ save files.</entry>
 <entry name="BUTTON_LOOK">Look Up / Down</entry>
 <entry name="SCREEN_GAMEPAD">Controller</entry>
 <entry name="CTRL_DETACHED">No controller connected</entry>
@@ -67,12 +67,12 @@
 <entry name="DESC_BACKER_NAMES">Show names of Kickstarter backers alongside their contributions.</entry>
 <entry name="BUTTON_INVENTORY">Inventory</entry>
 <entry name="BUTTON_TAUNT">Challenge</entry>
-<entry name="DESC_HUD_VISIBILITY">Adjust the scale of the HUD. Will reset on game exit if set to &#8216;Off&#8217;.</entry>
+<entry name="DESC_HUD_VISIBILITY">Adjust the scale of the HUD. Will reset on game exit if set to ‘Off’.</entry>
 <entry name="BUTTON_INVENTORY_MAP">Map</entry>
 <entry name="VIDEO_SHADERS">Blur Quality</entry>
 <entry name="VID_OPT_BORDERLESS">Borderless</entry>
 <entry name="SCREEN_EXTRAS">Extras</entry>
-<entry name="SAVE_WARNING">This game saves data automatically at certain points.&lt;br&gt; Please do not turn off the software while this symbol is displayed.</entry>
+<entry name="SAVE_WARNING">This game saves data automatically at certain points.<br> Please do not turn off the software while this symbol is displayed.</entry>
 <entry name="MOH_LOW">Low</entry>
 <entry name="BUTTON_MOVE">Move</entry>
 <entry name="GAME_CONTROLLER_RUMBLE">Rumble</entry>
@@ -87,7 +87,7 @@
 <entry name="VIDEO_DITHERING">Dithering</entry>
 <entry name="BUTTON_EMPTY">-</entry>
 <entry name="GAME_BACKER_NAMES">Backer Credits</entry>
-<entry name="PLAYER_VOICE_OPTION_DESC">Hear the hero&#8217;s voice during exploration and combat.</entry>
+<entry name="PLAYER_VOICE_OPTION_DESC">Hear the hero’s voice during exploration and combat.</entry>
 <entry name="ACHIEVEMENTS_BASE_SET_TITLE">Hollow Knight: Silksong Achievements</entry>
 <entry name="MAIN_START">Start Game</entry>
 <entry name="DESC_SHADERS">Reduce to improve performance on lower end systems.</entry>
@@ -116,7 +116,7 @@
 <entry name="BRIGHT_INSTRUCT">Adjust brightness to your desired level.</entry>
 <entry name="VIDEO_RESOLUTION_ULTRAWIDE">(beta)</entry>
 <entry name="NAV_YES">Yes</entry>
-<entry name="MODAL_NO_SAVE">Continue playing without a user?&lt;br&gt;Your progress will not be saved</entry>
+<entry name="MODAL_NO_SAVE">Continue playing without a user?<br>Your progress will not be saved</entry>
 <entry name="NORMAL_MODE_TEXT">Normal play mode.</entry>
 <entry name="BUTTON_LEFT">Left</entry>
 <entry name="BUTTON_SUPER_DASH">Harpoon</entry>

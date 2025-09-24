@@ -1,5 +1,5 @@
 <entries>
-<entry name="BATHHOUSE">Citadel&lt;br&gt;Spa</entry>
+<entry name="BATHHOUSE">Citadel<br>Spa</entry>
 <entry name="BONETOWN_GRAVEYARD">Bonegrave</entry>
 <entry name="BELLHOME">Bellhome</entry>
 <entry name="ABYSS">The Abyss</entry>
@@ -45,19 +45,19 @@
 <entry name="SWAMP">Bilewater</entry>
 <entry name="UNDERSTORE">Underworks</entry>
 <entry name="CITADEL_STATION">Grand Bellway</entry>
-<entry name="COG_CORE">Cogwork &lt;br&gt;Core</entry>
+<entry name="COG_CORE">Cogwork <br>Core</entry>
 <entry name="HIGH_HALLS">Choral Chambers</entry>
 <entry name="FRONT_GATE">Grand Gate</entry>
 <entry name="WISP">Wisp Thicket</entry>
 <entry name="FORGE">Forge</entry>
 <entry name="CAULDRON">The Cauldron</entry>
 <entry name="PATH_OF_BONE">The Marrow</entry>
-<entry name="PILGRIMS_REST">Pilgrim&#8217;s Rest</entry>
+<entry name="PILGRIMS_REST">Pilgrim’s Rest</entry>
 <entry name="CLOVER">Verdania</entry>
-<entry name="DUSTPENS">Sinner&#8217;s Road</entry>
+<entry name="DUSTPENS">Sinner’s Road</entry>
 <entry name="ABOVE_CRADLE">Border Caves</entry>
 <entry name="SHELLWOOD_THICKET">Shellwood</entry>
-<entry name="HUNTERS_NEST">Hunter&#8217;s March</entry>
+<entry name="HUNTERS_NEST">Hunter’s March</entry>
 <entry name="THE_SLAB">The Slab</entry>
 <entry name="AQUEDUCT">Putrified Ducts</entry>
 <entry name="BELLTOWN">Bellhart</entry>

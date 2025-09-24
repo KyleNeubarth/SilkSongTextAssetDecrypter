@@ -1,5 +1,5 @@
 <entries>
-<entry name="JOURNAL_FULL_DESC">Receive the Hunter&#8217;s Memento</entry>
+<entry name="JOURNAL_FULL_DESC">Receive the Hunter’s Memento</entry>
 <entry name="MATERIUM_FULL_NAME">Materialist</entry>
 <entry name="ALL_MASKS_NAME">Masked</entry>
 <entry name="ALL_SILK_SPOOLS_DESC">Acquire all Spool Fragments</entry>
@@ -7,12 +7,12 @@
 <entry name="SPEEDRUN_1_NAME">Speedrunner</entry>
 <entry name="ALL_MAPS_NAME">Cartographer</entry>
 <entry name="FIRST_MASK_NAME">Protected</entry>
-<entry name="JOURNAL_HALF_DESC">Grant Nuu&#8217;s wish</entry>
+<entry name="JOURNAL_HALF_DESC">Grant Nuu’s wish</entry>
 <entry name="DEFEATED_SONG_GOLEM_DESC">Defeat Fourth Chorus</entry>
 <entry name="FIRST_WISH_DESC">Grant your first wish</entry>
 <entry name="ENDING_C_NAME">Snared Silk</entry>
 <entry name="DEFEATED_CORAL_KING_NAME">Tyrant</entry>
-<entry name="HERALD_WISH_DESC">Grant the Herald&#8217;s wish and finish the game</entry>
+<entry name="HERALD_WISH_DESC">Grant the Herald’s wish and finish the game</entry>
 <entry name="DEFEATED_LACE_2_DESC">Defeat Lace in the Cradle</entry>
 <entry name="DEFEATED_WIDOW_NAME">Fanatic</entry>
 <entry name="FIRST_CREST_DESC">Claim your first Crest</entry>
@@ -41,12 +41,12 @@
 <entry name="DEFEATED_LAST_JUDGE_1_NAME">Judge</entry>
 <entry name="ALL_CRESTS_NAME">Consumed</entry>
 <entry name="DEFEATED_GREEN_PRINCE_NAME">Lamenter</entry>
-<entry name="SHAKRA_FINAL_QUEST_NAME">Trail&#8217;s End</entry>
+<entry name="SHAKRA_FINAL_QUEST_NAME">Trail’s End</entry>
 <entry name="ENDING_B_DESC">Defeat Grand Mother Silk</entry>
 <entry name="FIRST_WISH_NAME">Granted</entry>
 <entry name="BELLWAY_MELODY_DESC">Learn the Beastling Call</entry>
 <entry name="BELLWAYS_FULL_NAME">Connected</entry>
-<entry name="BELLWAYS_FULL_DESC">Open all of Pharloom&#8217;s Bellways</entry>
+<entry name="BELLWAYS_FULL_DESC">Open all of Pharloom’s Bellways</entry>
 <entry name="SPEEDRUN_1_DESC">Complete the game in under 5 hours</entry>
 <entry name="STEEL_SOUL_DESC">Finish the game in Steel Soul mode</entry>
 <entry name="DEFEATED_FLOWER_QUEEN_NAME">Seed</entry>
@@ -67,7 +67,7 @@
 <entry name="COMPLETION_NAME">Completion</entry>
 <entry name="DEFEATED_TROBBIO_NAME">Tragedian</entry>
 <entry name="ALL_SILK_HEARTS_DESC">Acquire all Silk Hearts</entry>
-<entry name="TUBES_FULL_DESC">Open all of the Citadel&#8217;s Ventrica Stations</entry>
+<entry name="TUBES_FULL_DESC">Open all of the Citadel’s Ventrica Stations</entry>
 <entry name="ALL_SILK_SKILLS_DESC">Bind all Silk Skills</entry>
 <entry name="PINSTRESS_WISH_DESC">Defeat Pinstress</entry>
 <entry name="FLEAS_HALF_NAME">Flea Finder</entry>
@@ -81,7 +81,7 @@
 <entry name="ENDING_A_NAME">Weaver Queen</entry>
 <entry name="PINSTRESS_WISH_NAME">Fatal Resolve</entry>
 <entry name="FLEAS_ALL_NAME">Fleafriend</entry>
-<entry name="GARMOND_FINAL_QUEST_NAME">Hero&#8217;s Call</entry>
+<entry name="GARMOND_FINAL_QUEST_NAME">Hero’s Call</entry>
 <entry name="DEFEATED_FIRST_SINNER_NAME">Heretic</entry>
 <entry name="ALL_MAPS_DESC">Acquire a map of each area</entry>
 <entry name="ALL_SILK_HEARTS_NAME">Regenerated</entry>
@@ -93,7 +93,7 @@
 <entry name="JOURNAL_HALF_NAME">Keen Hunter</entry>
 <entry name="DEFEATED_COGWORK_DANCERS_DESC">Defeat the Cogwork Dancers</entry>
 <entry name="SONGSHRINE_FIRST_DESC">Ring your first bell</entry>
-<entry name="CITADEL_SONG_DESC">Learn the Citadel&#8217;s Threefold song</entry>
+<entry name="CITADEL_SONG_DESC">Learn the Citadel’s Threefold song</entry>
 <entry name="FIRST_SILK_SKILL_NAME">Bound</entry>
 <entry name="WHITE_FLOWER_GAINED_NAME">Remembrance</entry>
 <entry name="GOURMAND_WISH_DESC">Satiate the Grand Gourmand</entry>
@@ -101,21 +101,21 @@
 <entry name="SONGSHRINE_FIRST_NAME">Awoken</entry>
 <entry name="FIRST_MASK_DESC">Acquire 4 Mask Shards</entry>
 <entry name="STEEL_SOUL_FULL_NAME">Steel Heart</entry>
-<entry name="DEFEATED_LACE_1_NAME">Pharloom&#8217;s Welcome</entry>
+<entry name="DEFEATED_LACE_1_NAME">Pharloom’s Welcome</entry>
 <entry name="DEFEATED_CORAL_KING_DESC">Defeat Crust King Khann</entry>
 <entry name="ENDING_E_NAME">Sister of the Void</entry>
-<entry name="SHAKRA_FINAL_QUEST_DESC">Grant Shakra&#8217;s wish</entry>
+<entry name="SHAKRA_FINAL_QUEST_DESC">Grant Shakra’s wish</entry>
 <entry name="BELLWAY_MELODY_NAME">Bonded</entry>
 <entry name="MEMENTO_FULL_NAME">Momentous</entry>
 <entry name="FIRST_CREST_NAME">Claimed</entry>
 <entry name="TUBES_FULL_NAME">Transported</entry>
 <entry name="DEFEATED_BELLBEAST_NAME">Liberated</entry>
-<entry name="FLEAS_ALL_DESC">Rescue all of Pharloom&#8217;s lost fleas and receive their final gift</entry>
+<entry name="FLEAS_ALL_DESC">Rescue all of Pharloom’s lost fleas and receive their final gift</entry>
 <entry name="ENDING_C_DESC">Defeat Grand Mother Silk and entrap her with the Soul Snare</entry>
-<entry name="HEART_OF_PHARLOOM_NAME">Pharloom&#8217;s Heart</entry>
+<entry name="HEART_OF_PHARLOOM_NAME">Pharloom’s Heart</entry>
 <entry name="ENDING_ANY_NAME">(Ending Generic)</entry>
 <entry name="FIRST_SILK_SPOOL_DESC">Acquire 2 Spool Fragments</entry>
-<entry name="FLEAS_HALF_DESC">Rescue half of Pharloom&#8217;s lost fleas</entry>
+<entry name="FLEAS_HALF_DESC">Rescue half of Pharloom’s lost fleas</entry>
 <entry name="HIDDEN_ACHIEVEMENT">This achievement is hidden</entry>
 <entry name="EVA_FINAL_QUEST_DESC">Bind Eva</entry>
 </entries>
